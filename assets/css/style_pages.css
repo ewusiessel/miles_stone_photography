@@ -111,8 +111,8 @@ nav {
     margin-bottom: 40px;
 }
 
-nav .current {
-font-size: x-large;
+nav #current {
+color: rgb(226, 191, 178);
 }
 
 /* NAVBAR BRAND */
