@@ -62,7 +62,7 @@ p {
     text-transform: uppercase;
     padding: 10px 25px;
     cursor: pointer;
-    transition color: 0.5s linear;
+    transition-delay: 0.5s linear;
     border-radius: 0;
 }
 
