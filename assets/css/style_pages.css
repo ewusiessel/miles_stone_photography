@@ -54,6 +54,7 @@ li {
     margin: 0;
 }
 
+
 /* GRID IMAGES */
 
 .row {
@@ -132,8 +133,6 @@ color: rgb(230, 149, 120);
 
 }
 
-
-
 .navbar {
     padding-top: 50px;
 }
@@ -159,7 +158,6 @@ nav .navbar-brand {
 .btn {
     border-radius: 0em;
 }
-
 
 
 /* ABOUT PAGE */
