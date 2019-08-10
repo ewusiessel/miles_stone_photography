@@ -111,6 +111,10 @@ nav {
     margin-bottom: 40px;
 }
 
+nav .current {
+font-size: x-large;
+}
+
 /* NAVBAR BRAND */
 
 .navbar li a {
@@ -128,9 +132,7 @@ nav {
 
 }
 
-/* .navbar a {
-    text-align: left;
-} */
+
 
 .navbar {
     padding-top: 50px;
